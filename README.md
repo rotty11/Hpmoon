@@ -12,7 +12,7 @@ Hpmoon requires a GCC compiler and OpenCL 1.2 compliant CPU-GPU devices. It also
 
 ## Documentation
 
-Hpmoon is fully documented in its [Github Pages](https://efficomp.github.io/Hpmoon/). In addition, the `Makefile` file contains a rule to generate [Doxygen](https://www.doxygen.nl/index.html) documentation in the `docs/html` folder.
+Hpmoon is fully documented in its [Github Pages](https://rotty11.github.io/Hpmoon/). In addition, the `Makefile` file contains a rule to generate [Doxygen](https://www.doxygen.nl/index.html) documentation in the `docs/html` folder.
 
 ## Usage
 
