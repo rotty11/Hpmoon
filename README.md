@@ -20,11 +20,16 @@ Hpmoon requires a GCC compiler and OpenCL 1.2 compliant CPU-GPU devices. It also
 
 ## Documentation
 
-Hpmoon is fully documented in its [Github Pages](https://efficomp.github.io/Hpmoon/). In addition, the `Makefile` file contains a rule to generate [Doxygen](https://www.doxygen.nl/index.html) documentation in the `docs/html` folder.
+Hpmoon is fully documented in its [Github Pages](https://rotty11.github.io/Hpmoon/). In addition, the `Makefile` file contains a rule to generate [Doxygen](https://www.doxygen.nl/index.html) documentation in the `docs/html` folder.
 
 ## Usage
 
 The `docs` folder contains the file `user_guide.pdf` with the instructions necessary to use the program. You can also display help by running the program with the `-h` option.
+
+## Output
+
+* Execution time.
+* Hypervolume value.
 
 ## Publications
 
@@ -60,9 +65,9 @@ This work has been funded by:
 * *European Regional Development Fund (ERDF)*.
 
 <div style="text-align: right">
-  <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/mineco.png" height="60">
-  <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/miciu.jpg" height="60">
-  <img src="https://raw.githubusercontent.com/efficomp/Hpmoon/main/docs/logos/erdf.png" height="60">
+  <img src="https://raw.githubusercontent.com/rotty11/Hpmoon/main/docs/logos/mineco.png" height="60">
+  <img src="https://raw.githubusercontent.com/rotty11/Hpmoon/main/docs/logos/miciu.jpg" height="60">
+  <img src="https://raw.githubusercontent.com/rotty11/Hpmoon/main/docs/logos/erdf.png" height="60">
 </div>
 
 ## License
