@@ -27,7 +27,7 @@
 
 
 /**
- * @brief Allocates memory for all subpopulations (parents and children). Also, they are initialized
+ * @brief Allocate memory for all subpopulations (parents and children). Also, they are initialized
  * @param conf The structure with all configuration parameters
  * @return The first subpopulations
  */

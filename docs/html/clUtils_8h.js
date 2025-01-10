@@ -1,9 +1,9 @@
 var clUtils_8h =
 [
     [ "CLDevice", "structCLDevice.html", "structCLDevice" ],
-    [ "CLDevice", "clUtils_8h.html#a8f09b3f5629f11111cd4406fe6f087c7", null ],
-    [ "createDevices", "clUtils_8h.html#ae712d71ab7801de99857b33129377599", null ],
-    [ "getAllDevices", "clUtils_8h.html#a3c8d15f9f3acd11a026b2dc9b37ebff8", null ],
+    [ "CLDevice", "clUtils_8h.html#afa1e269568e0bb47f776ffa9b3296fcf", null ],
+    [ "createDevices", "clUtils_8h.html#aae4f539a5fcd0b1fc40576a3249069a7", null ],
+    [ "getAllDevices", "clUtils_8h.html#aa8b8e443ed54f959e4331c80ffa61ae9", null ],
     [ "listDevices", "clUtils_8h.html#a68249626edaefadea1ea8bb0a1e69baa", null ],
     [ "CL_ERROR_DEVICE_CONTEXT", "clUtils_8h.html#abab914102105b0f78e475257bc1ea198", null ],
     [ "CL_ERROR_DEVICE_FOUND", "clUtils_8h.html#a3c50dcdd803304b76f2f701f6711b5b1", null ],

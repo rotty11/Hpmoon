@@ -13,10 +13,10 @@ var hierarchy =
     [ "tinyxml2::Entity", "structtinyxml2_1_1Entity.html", null ],
     [ "Individual", "structIndividual.html", null ],
     [ "tinyxml2::MemPool", "classtinyxml2_1_1MemPool.html", [
-      [ "tinyxml2::MemPoolT< sizeof(tinyxml2::XMLAttribute) >", "classtinyxml2_1_1MemPoolT.html", null ],
-      [ "tinyxml2::MemPoolT< sizeof(tinyxml2::XMLComment) >", "classtinyxml2_1_1MemPoolT.html", null ],
       [ "tinyxml2::MemPoolT< sizeof(tinyxml2::XMLElement) >", "classtinyxml2_1_1MemPoolT.html", null ],
+      [ "tinyxml2::MemPoolT< sizeof(tinyxml2::XMLAttribute) >", "classtinyxml2_1_1MemPoolT.html", null ],
       [ "tinyxml2::MemPoolT< sizeof(tinyxml2::XMLText) >", "classtinyxml2_1_1MemPoolT.html", null ],
+      [ "tinyxml2::MemPoolT< sizeof(tinyxml2::XMLComment) >", "classtinyxml2_1_1MemPoolT.html", null ],
       [ "tinyxml2::MemPoolT< SIZE >", "classtinyxml2_1_1MemPoolT.html", null ]
     ] ],
     [ "objectiveCompare", "structobjectiveCompare.html", null ],

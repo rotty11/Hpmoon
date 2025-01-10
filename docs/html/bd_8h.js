@@ -1,7 +1,7 @@
 var bd_8h =
 [
-    [ "getDataBase", "bd_8h.html#a16343ea5da5e376b99b801c92978f65e", null ],
-    [ "transposeDataBase", "bd_8h.html#a5a629d0a2fdde03a1502cf04c2dd0c8f", null ],
+    [ "getDataBase", "bd_8h.html#acb5e6b93b74010a7d00679aa9e1f8a7d", null ],
+    [ "transposeDataBase", "bd_8h.html#af51a1dc2fde44e930736e0e66729a0a5", null ],
     [ "BD_ERROR_COLUMNS_UNEQUAL", "bd_8h.html#a449a51bf571421482e20378c61a1fa6b", null ],
     [ "BD_ERROR_DIMENSIONS_MIN", "bd_8h.html#aba8e6f7266a28608bff6f1b72a14175d", null ],
     [ "BD_ERROR_FILE_EMPTY", "bd_8h.html#a41e956dcedcd179054d1d2198800591c", null ],

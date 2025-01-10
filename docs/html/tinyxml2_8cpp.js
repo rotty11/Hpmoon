@@ -1,10 +1,10 @@
 var tinyxml2_8cpp =
 [
-    [ "Entity", "structtinyxml2_1_1Entity.html", "structtinyxml2_1_1Entity" ],
+    [ "tinyxml2::Entity", "structtinyxml2_1_1Entity.html", "structtinyxml2_1_1Entity" ],
     [ "TIXML_SNPRINTF", "tinyxml2_8cpp.html#afc6433f9b56e4f18833089b1df629e0a", null ],
     [ "TIXML_SSCANF", "tinyxml2_8cpp.html#a96f54d7c855ad92e705510904a040393", null ],
     [ "TIXML_VSNPRINTF", "tinyxml2_8cpp.html#a924d10d64b020e9dbcd2b8b024768608", null ],
-    [ "callfopen", "tinyxml2_8cpp.html#a3634a81ca725ead6204f08cbaa5ad58f", null ],
+    [ "callfopen", "tinyxml2_8cpp.html#a7b54ef71c8fd3276585aeb150c9913bd", null ],
     [ "TIXML_VSCPRINTF", "tinyxml2_8cpp.html#a06e056473f30fb42ab691a3a164bbc84", null ],
     [ "CARRIAGE_RETURN", "tinyxml2_8cpp.html#add686989707d784afa885cbb90910113", null ],
     [ "CR", "tinyxml2_8cpp.html#ad3136d2f1f34e592c66e09ba8a852812", null ],

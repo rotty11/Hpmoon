@@ -28,7 +28,6 @@
  * @brief The constructor with parameters
  * @param description A short description about the meaning of this argument
  * @param requireValue If this argument needs a value or not
- * @return An object containing this argument information
  */
 CmdParser::Argument::Argument(const char *const description, const bool requireValue) {
 
@@ -98,7 +97,6 @@ std::string CmdParser::Argument::getValue() {
  * @param overview General description of the program
  * @param syntax Generic syntax of the program
  * @param footer Short text to end the program information
- * @return An object containing the program information
  */
 CmdParser::CmdParser(const char *const overview, const char *const syntax, const char *const footer) {
 

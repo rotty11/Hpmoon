@@ -229,7 +229,6 @@ typedef struct Config {
 	 * @brief The constructor with parameters
 	 * @param argc Number of arguments
 	 * @param argv The command-line parameters
-	 * @return An object containing all configuration parameters
 	 */
 	Config(const int argc, const char **argv);
 

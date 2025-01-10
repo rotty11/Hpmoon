@@ -319,7 +319,7 @@ void evolve(Individual *const subpop, int *const nIndsFronts0, CLDevice *const d
 /**
  * @brief Island-based genetic algorithm model
  * @param subpops The initial subpopulations
- * @param devicesObject Structure containing the information of a device
+ * @param devicesObject Structure containing the OpenCL variables of a device
  * @param trDataBase The training database which will contain the instances and the features
  * @param selInstances The instances choosen as initial centroids
  * @param conf The structure with all configuration parameters
