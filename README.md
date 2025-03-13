@@ -35,6 +35,7 @@ The `docs` folder contains the file `user_guide.pdf` with the instructions neces
 
 #### Journals
 
+1. J.J. Escobar, P. Sánchez-Cuevas, B. Prieto, R. Savran Kiziltepe, F. Díaz-del-Río, and D. Kimovski. *Energy-time Modelling of Distributed Multi-population Genetic Algorithms with Dynamic Workload in HPC Clusters*. In: **Future Generation Computer Systems** 167 (2025), e107753. DOI: [10.1016/j.future.2025.107753](https://doi.org/10.1016/j.future.2025.107753).
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *Energy-aware Load Balancing of Parallel Evolutionary Algorithms with Heavy Fitness Functions in Heterogeneous CPU-GPU Architectures*. In: **Concurrency and Computation: Practice and Experience** 31.6 (2019), e4688. DOI: [10.1002/cpe.4688](https://doi.org/10.1002/cpe.4688).
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *Time-energy Analysis of Multi-level Parallelism in Heterogeneous Clusters: The Case of EEG Classification in BCI Tasks*. In: **The Journal of Supercomputing** 75.7 (2019), pp. 3397-3425. DOI: [10.1007/s11227-019-02908-4](https://doi.org/10.1007/s11227-019-02908-4).
 1. J.J. Escobar, J. Ortega, A.F. Díaz, J. González, and M. Damas. *A Power-Performance Perspective to Multiobjective Electroencephalogram Feature Selection on Heterogeneous Parallel Platforms*. In: **Journal of Computational Biology** 25.8 (2018), pp. 882-893. DOI: [10.1089/cmb.2018.0080](https://doi.org/10.1089/cmb.2018.0080).
